@@ -1,0 +1,221 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"TUKTUKProject-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-11-09 15:38+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-02-24 10:49+0200\n"
+"Language-Team: \n"
+"Project-Id-Version: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi\n"
+
+#: index.php:28
+msgid "Targets"
+msgstr "Miksi mukaan CityTrackiin?"
+
+#: partners.php:30 footer.php:14
+msgid "Contact Us"
+msgstr "Ota yhteyttä"
+
+#: partners.php:37
+msgid "Events"
+msgstr "Tapahtumat"
+
+#: partners.php:68 inc/modals.php:64
+msgid "Attend"
+msgstr "Ilmoittautuminen"
+
+#: partners.php:69
+msgid "More info"
+msgstr "Lisätietoja"
+
+#: partners.php:102
+msgid "We offer"
+msgstr "Tarjoamme"
+
+#: users.php:49
+msgid "Pilots of Core partners"
+msgstr "Pilottiyritykset"
+
+#: inc/modal.php:10 inc/modal.php:49
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/modal.php:11 inc/modal.php:50
+msgid "Enter your name"
+msgstr "Kirjoita nimesi"
+
+#: inc/modal.php:15 inc/modal.php:54
+msgid "E-mail"
+msgstr "Sähköposti"
+
+#: inc/modal.php:16 inc/modal.php:55
+msgid "Enter your e-mail"
+msgstr "Kirjoita sähköpostiosoitteesi"
+
+#: inc/modal.php:20
+msgid "Subject"
+msgstr "Aihe"
+
+#: inc/modal.php:21
+msgid "Enter subject"
+msgstr "Kirjoita aihe"
+
+#: inc/modal.php:25
+msgid "Message"
+msgstr "Viesti"
+
+#: inc/modal.php:30
+msgid "Send"
+msgstr "Lähetä"
+
+#: inc/modal.php:80 inc/modal.php:92
+msgid "Sorry!"
+msgstr "Pahoittelut!"
+
+#: inc/modal.php:82
+msgid "Something went wrong!"
+msgstr "Jotain meni vikaan!"
+
+#: inc/modal.php:94
+msgid "Already registered phone number or e-mail."
+msgstr "Yhteystiedot ovat jo rekisterissä."
+
+#: inc/modal.php:77
+msgid "Thank you!"
+msgstr "Kiitos!"
+
+#: inc/modal.php:77
+msgid "We received your message!"
+msgstr "Saimme viestisi!"
+
+#: functions.php:254 functions.php:294
+msgid "Dear"
+msgstr "Hyvä"
+
+#: functions.php:255
+msgid "Thank you for your interest! We received your message and will contact you soon."
+msgstr "Kiitos mielenkiinnostasi! Saimme viestisi ja olemme sinuun pikaisesti yhteydessä."
+
+#: functions.php:256
+msgid "Your message"
+msgstr "Viestisi"
+
+#: functions.php:257
+msgid "Best regards"
+msgstr "Parhain terveisin"
+
+#: functions.php:258 functions.php:297
+msgid "CityTrack team"
+msgstr "CityTrack-tiimi"
+
+#: functions.php:260 functions.php:299
+msgid "CityTrack automatic reply"
+msgstr "CityTrackin automaattinen vastaus"
+
+#: functions.php:294
+msgid "Thank you for registering for the CityTrack"
+msgstr "Kiitos ilmoittautumisestasi CityTrackin"
+
+#: functions.php:294
+msgid "at the University of Tampere, on"
+msgstr "Tampereen yliopistolle"
+
+#: functions.php:295
+msgid "at"
+msgstr "klo"
+
+#: functions.php:296
+msgid "See you soon"
+msgstr "Nähdään pian"
+
+#: functions.php:296
+msgid "Successfull registration"
+msgstr "Onnistunut rekisteröityminen"
+
+#: functions.php:350
+msgid "Thank you for registering as a test user"
+msgstr "Kiitos rekisteröitymisestä testikäyttäjäksi"
+
+#: functions.php:439
+msgid "Thank you for helping us improving our service!"
+msgstr "Kiitos arvokkaasta avustasi palvelumme parantamiseksi!"
+
+#: functions.php:443
+msgid "Feedback received"
+msgstr "Palautteesi on vastaanotettu."
+
+#: test-users.php:35
+msgid "Registration"
+msgstr "Rekisteröityminen"
+
+#: test-users.php:52
+msgid "I am a member of student organization"
+msgstr "Olen opiskelijajärjestön jäsen"
+
+#: test-users.php:58
+msgid "Organization"
+msgstr "Organisaatio"
+
+#: test-users.php:60
+msgid "Select"
+msgstr "Valita"
+
+#: test-users.php:60
+msgid "Other"
+msgstr "Muu"
+
+#: test-users.php:76
+msgid "Code"
+msgstr "Koodi"
+
+#: test-users.php:77
+msgid "Group code"
+msgstr "Ryhmäkoodi"
+
+#: test-users.php:81
+msgid "Organization name"
+msgstr "Organisaation nimi"
+
+#: test-users.php:89
+msgid "Contact details are used only for research-related communication and the lotteries."
+msgstr "Yhteystietoja käytetään vain sovelluksen lataamiseen ja tutkimukseen liittyvään yhteydenpitoon sekä arvontoihin."
+
+#: test-users.php:92
+msgid "Register"
+msgstr "Rekisteröidy"
+
+#: test-users.php:105
+msgid "Lotteries for test users!"
+msgstr "Kaksi testikäyttäjäarvontaa!"
+
+#: test-users.php:97
+msgid "Feedback"
+msgstr "Palaute"
+
+#: test-users.php:108
+msgid "Feedback message"
+msgstr "Palautteesi"
+
+#: test-users.php:136
+msgid "What to do?"
+msgstr "Näin homma toimii"
+
+#: inc/partners.php:2
+msgid "CityTrack Partners"
+msgstr "CityTrack-partnerit"
+
+#: footer.php:75
+msgid "The CityTrack research project is funded by "
+msgstr "CityTrack-tutkimusprojektin rahoituksesta vastaa "
+
+#: footer.php 78
+msgid "Tekes – the Finnish Funding Agency for Innovation"
+msgstr "Tekes - Innovaatiotoiminnan rahoittaja ja verkottaja"

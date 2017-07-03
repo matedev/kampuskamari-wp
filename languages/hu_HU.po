@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Werth Messtechnik v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-06 11:44:05+0000\n"
+"Last-Translator: admin <jozsi@hidden.hu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive-termekek.php:13
+#: inc/sidebar.php:4
+#: single-termekek.php:16
+#@ werth
+msgid "Termékeink"
+msgstr ""
+
+#: archive-termekek.php:146
+#@ werth
+msgid "Megnézem"
+msgstr ""
+
+#: inc/hirek.php:4
+#: page-home.php:71
+#@ werth
+msgid "HÍREK, AKTUALITÁSOK"
+msgstr ""
+
+#: inc/hirek.php:31
+#: inc/termekek.php:37
+#: index.php:74
+#@ werth
+msgid "Tovább"
+msgstr "Tovább"
+
+#: inc/hirek.php:42
+#@ werth
+msgid "TOVÁBBI HÍREINK"
+msgstr ""
+
+#: inc/map.php:25
+#@ werth
+msgid "Email"
+msgstr ""
+
+#: inc/map.php:26
+#@ werth
+msgid "IRATKOZZON FEL HÍRLEVELÜNKRE!"
+msgstr ""
+
+#: inc/map.php:29
+#@ werth
+msgid "Email cím"
+msgstr ""
+
+#: inc/map.php:35
+#@ werth
+msgid "Feliratkozom"
+msgstr ""
+
+#: inc/sidebar.php:82
+#: single-szolgaltatasok.php:12
+#@ werth
+msgid "Szolgáltatásaink"
+msgstr ""
+
+#: inc/termekek.php:4
+#@ werth
+msgid "TERMÉKEINK"
+msgstr ""
+
+#: index.php:17
+#: index.php:56
+#@ werth
+msgid "Híreink"
+msgstr ""
+
+#: page-home.php:139
+#@ werth
+msgid "SZOLGÁLTATÁSAINK"
+msgstr ""
+
+#: single-termekek.php:53
+#@ werth
+msgid "Letöltések"
+msgstr ""
+
+#: single-termekek.php:64
+#@ werth
+msgid "Árajánlatot kérek"
+msgstr ""
+
+#: single-termekek.php:76
+#@ werth
+msgid "Leírás"
+msgstr ""
+
+#: single-termekek.php:80
+#@ werth
+msgid "Specifikációk"
+msgstr ""
+
+#: single-termekek.php:84
+#@ werth
+msgid "Kapcsolódó dokumentumok"
+msgstr ""
+
+#: single-termekek.php:96
+#@ werth
+msgid "Videó bemutató"
+msgstr ""
+
+#: single-termekek.php:106
+#@ werth
+msgid "Letölthető dokumetumok"
+msgstr ""
+
+#: single-termekek.php:111
+#@ werth
+msgid "Dokumentum letöltése"
+msgstr ""
+
+#: page-workshop.php:30
+#@ werth
+msgid "Program"
+msgstr ""
+
+#: page-ajanlat.php:27
+#: page-workshop.php:99
+#@ werth
+msgid "Cég név"
+msgstr ""
+
+#: page-ajanlat.php:31
+#: page-workshop.php:103
+#@ werth
+msgid "Vezetéknév"
+msgstr ""
+
+#: page-ajanlat.php:35
+#: page-workshop.php:107
+#@ werth
+msgid "Keresztnév"
+msgstr ""
+
+#: page-workshop.php:111
+#@ werth
+msgid "Beosztás"
+msgstr ""
+
+#: page-workshop.php:115
+#@ werth
+msgid "Melyik napon vesz részt?"
+msgstr ""
+
+#: page-workshop.php:132
+#@ werth
+msgid "Minden nap"
+msgstr ""
+
+#: page-workshop.php:135
+#@ werth
+msgid "Hoz munkadarabot?"
+msgstr ""
+
+#: page-workshop.php:138
+#: page-workshop.php:139
+#@ werth
+msgid "Igen"
+msgstr ""
+
+#: page-workshop.php:142
+#: page-workshop.php:143
+#@ werth
+msgid "Nem"
+msgstr ""
+
+#: page-ajanlat.php:41
+#: page-workshop.php:148
+#@ werth
+msgid "Telefonszám"
+msgstr ""
+
+#: page-ajanlat.php:45
+#: page-workshop.php:152
+#@ werth
+msgid "E-mail"
+msgstr ""
+
+#: page-workshop.php:160
+#@ werth
+msgid "Mérési feladat leírása"
+msgstr ""
+
+#: page-workshop.php:163
+#@ werth
+msgid "Regisztrálok"
+msgstr ""
+
+#: functions.php:212
+#@ werth
+msgid "Regisztrációját megkaptuk!"
+msgstr ""
+
+#: functions.php:247
+#@ werth
+msgid "Ajánlatát megkaptuk!"
+msgstr ""
+
+#: page-ajanlat.php:52
+#@ werth
+msgid "Ajánlat leírása"
+msgstr ""
+
+#: page-ajanlat.php:55
+#@ werth
+msgid "Ajánlat kérése"
+msgstr ""
+
+#: page-home.php:35
+#@ werth
+msgid "Főoldal_További_Termékek"
+msgstr "További Termékek"
+
+#: page-home.php:55
+#@ werth
+msgid "REGISZTRÁLOK"
+msgstr ""
+
+#: page-home.php:108
+#@ werth
+msgid "Főoldal_Hírek_Tovább"
+msgstr "Tovább"
+
+#: page-home.php:125
+#@ werth
+msgid "Főoldal_További_Híreink"
+msgstr "További Híreink"
+
+#: page-home.php:158
+#@ werth
+msgid "Főoldal_Szolg_Tovább"
+msgstr "Tovább"
+

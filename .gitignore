@@ -1,0 +1,10 @@
+.idea/*
+
+wp-content/uploads/*
+
+.htaccess
+info.txt
+build/*
+node_modules/*
+gulpfile.js
+package.json
